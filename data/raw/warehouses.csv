@@ -1,0 +1,7 @@
+warehouse_id,warehouse_name,country,region,capacity_units
+W01,Warehouse USA,USA,North America,11304
+W02,Warehouse Germany,Germany,Europe,11252
+W03,Warehouse Singapore,Singapore,Asia Pacific,14763
+W04,Warehouse Brazil,Brazil,Latin America,12668
+W05,Warehouse India,India,Asia Pacific,13669
+W06,Warehouse Netherlands,Netherlands,Europe,9119

@@ -1,0 +1,82 @@
+[
+  {
+    "disruption_id": "D001",
+    "disruption_type": "Port Congestion",
+    "country": "China",
+    "region": "Asia Pacific",
+    "severity": 4,
+    "start_date": "2025-06-10",
+    "end_date": "2025-07-20",
+    "description": "Port Congestion affecting logistics in China"
+  },
+  {
+    "disruption_id": "D002",
+    "disruption_type": "Typhoon",
+    "country": "Taiwan",
+    "region": "Asia Pacific",
+    "severity": 5,
+    "start_date": "2025-06-25",
+    "end_date": "2025-07-05",
+    "description": "Typhoon affecting logistics in Taiwan"
+  },
+  {
+    "disruption_id": "D003",
+    "disruption_type": "Labor Strike",
+    "country": "Germany",
+    "region": "Europe",
+    "severity": 3,
+    "start_date": "2025-05-01",
+    "end_date": "2025-05-20",
+    "description": "Labor Strike affecting logistics in Germany"
+  },
+  {
+    "disruption_id": "D004",
+    "disruption_type": "Flooding",
+    "country": "India",
+    "region": "Asia Pacific",
+    "severity": 4,
+    "start_date": "2025-06-20",
+    "end_date": "2025-07-15",
+    "description": "Flooding affecting logistics in India"
+  },
+  {
+    "disruption_id": "D005",
+    "disruption_type": "Export Restriction",
+    "country": "Vietnam",
+    "region": "Asia Pacific",
+    "severity": 3,
+    "start_date": "2025-03-01",
+    "end_date": "2025-04-15",
+    "description": "Export Restriction affecting logistics in Vietnam"
+  },
+  {
+    "disruption_id": "D006",
+    "disruption_type": "Cyberattack",
+    "country": "Mexico",
+    "region": "North America",
+    "severity": 2,
+    "start_date": "2025-06-28",
+    "end_date": "2025-07-10",
+    "description": "Cyberattack affecting logistics in Mexico"
+  },
+  {
+    "disruption_id": "D007",
+    "disruption_type": "Rail Strike",
+    "country": "USA",
+    "region": "North America",
+    "severity": 2,
+    "start_date": "2025-02-10",
+    "end_date": "2025-02-20",
+    "description": "Rail Strike affecting logistics in USA"
+  },
+  {
+    "disruption_id": "D008",
+    "disruption_type": "Drought",
+    "country": "Brazil",
+    "region": "Latin America",
+    "severity": 3,
+    "start_date": "2025-06-01",
+    "end_date": "2025-08-31",
+    "description": "Drought affecting logistics in Brazil"
+  }
+]

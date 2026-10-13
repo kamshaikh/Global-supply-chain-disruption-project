@@ -1,0 +1,8 @@
+change_id,supplier_id,op,changed_at,supplier_name,country,tier,reliability_score,lead_time_days,status
+CH001,S003,U,2025-03-15 09:00:00,Supplier 03 Industries,India,1,0.8,20,ACTIVE
+CH002,S003,U,2025-05-10 09:00:00,Supplier 03 Industries,India,1,0.62,30,ACTIVE
+CH003,S007,U,2025-04-02 12:00:00,Supplier 07 Industries,Brazil,2,0.68,39,SUSPENDED
+CH004,S011,U,2025-04-20 08:30:00,Supplier 11 Industries,China,3,0.82,40,ACTIVE
+CH005,S021,I,2025-05-05 10:00:00,Supplier 21 Industries,Turkey,2,0.88,18,ACTIVE
+CH006,S020,D,2025-06-01 00:00:00,Supplier 20 Industries,Indonesia,3,0.65,31,ACTIVE
+CH007,S015,U,2025-06-12 14:00:00,Supplier 15 Industries,Mexico,1,0.55,28,ACTIVE
